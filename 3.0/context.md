@@ -1014,6 +1014,8 @@ module.exports = class extends think.Controller {
     }
   }
 }
+
+window 程序提示错误 Error: EXDEV: cross-device link not permitted, rename 需要换一种方式上传 比如 https://github.com/andrewrk/node-mv
 ```
 
 
